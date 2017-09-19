@@ -1,0 +1,12 @@
+{
+  "name": "alexaDynamoDB",
+  "version": "1.0.0",
+  "description": "using Alexa to read and write to a DynamoDB database",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Arnab Borah",
+  "license": "None"
+}
